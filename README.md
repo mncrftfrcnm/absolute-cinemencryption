@@ -109,4 +109,5 @@ decrypt ciphertext in reverse order
 plaintext
 ```
 
-The project is mostly experimental and explores combining symmetric encryption, keyed block movement, algorithm selection, and post-quantum key material inside one custom encryption format.
+
+This is more experimental(or joke), but i guess this algorithm is super effective if we want to secure the system for 3 trillion years instead of just 1 trillion
