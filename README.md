@@ -2,6 +2,8 @@
 
 *(like "absolute cinema" + encryption)*
 
+![Absolute Encryption](https://api.memegen.link/images/custom/_/ENCRYPTION.png?background=https%3A%2F%2Fi.imgflip.com%2F9knug9.png&font=impact&color=white%2Cblack&width=828)
+
 So, this is basically a combination of multiple encryption methods in one system.
 
 Firstly, the original text is encrypted using normal AES.
